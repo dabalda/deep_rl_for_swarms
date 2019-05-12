@@ -32,7 +32,6 @@ setup(
                       'mpi4py == 3.0.0',
                       'networkx == 2.1',
                       'numpy == 1.14.5',
-                      'pkg-resources == 0.0.0',
                       'protobuf == 3.6.0',
                       'pyglet == 1.3.2',
                       'pyparsing == 2.2.0',
